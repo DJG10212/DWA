@@ -6,7 +6,7 @@
   * `git add -A`
   * `git commit -m "comment here"`
 4. Push to GitHub master branch
-  * `push github master`
+  * `git push github master`
 5. You or your team can now review code, and access it via github
   * `git pull github master`
 6. Push the code to remote Staging server for testing
